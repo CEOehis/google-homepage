@@ -71,3 +71,11 @@ footer {
     margin-bottom: 0px;
     font-size: 1.1em;
 }
+
+input {
+    background-image: url('Google_mic.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 15px 20px;
+    padding: 5px;
+}
